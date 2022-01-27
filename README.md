@@ -18,8 +18,8 @@ Challenge is to build out QR code component and get it looking as close to the d
 
 ### Links
 
-- Solution URL: https://github.com/codigoTO/frontendmentor/tree/master/Newbie/qr-code-component-main
-- Live Site URL: 
+- Solution URL: https://github.com/codigoTO/qr-code-component-main
+- Live Site URL: https://codigoto.github.io/qr-code-component-main/
 
 ## Author
 
