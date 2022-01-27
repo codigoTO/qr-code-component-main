@@ -7,8 +7,8 @@ body {
   font-family: "Outfit", sans-serif;
 }
 .qrcode {
-  width: 300px;
-  height: 450px;
+  width: 290px;
+  height: 460px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 15px;
   box-shadow: 5px 5px 10px 1px hsl(0, 0%, 67%);
@@ -16,8 +16,8 @@ body {
 }
 .qr_img {
   margin: 15px 10px 0 -25px;
-  width: 270px;
-  height: 270px;
+  width: 260px;
+  height: 260px;
   border-radius: 10px;
 }
 .qrcode__header {
