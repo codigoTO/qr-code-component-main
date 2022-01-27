@@ -7,27 +7,28 @@ body {
   font-family: "Outfit", sans-serif;
 }
 .qrcode {
-  width: 250px;
-  height: 400px;
+  width: 300px;
+  height: 450px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 15px;
-  box-shadow: 5px 5px 10px 1px #acacac;
+  box-shadow: 5px 5px 10px 1px hsl(0, 0%, 67%);
+
 }
 .qr_img {
   margin: 15px 10px 0 -25px;
-  width: 220px;
-  height: 220px;
+  width: 270px;
+  height: 270px;
   border-radius: 10px;
 }
 .qrcode__header {
-  font-size: 17.5px;
+  font-size: 21px;
   font-weight: 700;
   margin: 15px;
   color: hsl(218, 44%, 22%);
 }
 .qrcode__text {
   margin: 15px 20.7px;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 400;
   color: hsl(220, 15%, 55%);
 }
